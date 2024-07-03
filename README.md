@@ -7,13 +7,12 @@ The primary objectives of this project are:
 - To identify the key factors influencing loan approval and default rates.
 - To provide actionable insights and recommendations for improving the loan portfolio's performance.
 ## Data Cleaning and Processing
-#### Data Cleaning and Processing
 The data cleaning and processing phase involved the following steps:
 1. **Loading Data**: Imported the loan data from the provided dataset.
 2. **Handling Missing Values**: Identified and treated missing values appropriately.
 3. **Data Transformation**: Converted categorical variables into numerical formats and standardized date formats.
 4. **Outlier Detection**: Detected and handled outliers in the dataset.
-#### Data Visualization and Analysis
+## Data Visualization and Analysis
 To gain insights into the loan data, various data visualization techniques were employed:
 - **Loan Amount Distribution**: Visualized the distribution of loan amounts to understand the range and central tendency.
 - **Interest Rate Analysis**: Plotted the interest rates to identify patterns and trends.
