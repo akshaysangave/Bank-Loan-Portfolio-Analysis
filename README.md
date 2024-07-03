@@ -14,11 +14,15 @@ The data cleaning and processing phase involved the following steps:
 4. **Outlier Detection**: Detected and handled outliers in the dataset.
 ## Data Visualization and Analysis
 To gain insights into the loan data, various data visualization techniques were employed:
-- **Loan Amount Distribution**: Visualized the distribution of loan amounts to understand the range and central tendency.
-- **Interest Rate Analysis**: Plotted the interest rates to identify patterns and trends.
-- **Loan Status Distribution**: Created a bar chart to show the proportion of different loan statuses (e.g., Fully Paid, Charged Off).
+- **Loan Amount Distribution**: Visualized the distribution of loan amounts from year 2007 to 2011 using line chart to understand the range and central tendency.
+- **Grade and Sub-grade wise Revolving Balance**: Plotted the column charts showing the Revolving Balance for different grades and subgrades of loan.
+- **Loan Status Distribution**: Created a treemap chart and a bar chart to show the proportion of different loan statuses month and statewise.
 - **Home Ownership and Loan Performance**: Analyzed the impact of home ownership on loan performance using a segmented bar chart.
-- **DTI Ratio Analysis**: Examined the relationship between debt-to-income (DTI) ratio and loan default rates.
+- **Good Loan vs Bad Loan**: Examined the percentage of good and bad loan utilizing pie chart for oveall risk assessment.
+# Excel Dashboard
+# Power BI Dashboard
+# Tableau Dashboard
+# Insights, Recommendations and Conclusion
 
 
 
