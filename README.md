@@ -19,10 +19,13 @@ To gain insights into the loan data, various data visualization techniques were 
 - **Loan Status Distribution**: Created a treemap chart and a bar chart to show the proportion of different loan statuses month and statewise.
 - **Home Ownership and Loan Performance**: Analyzed the impact of home ownership on loan performance using a segmented bar chart.
 - **Good Loan vs Bad Loan**: Examined the percentage of good and bad loan utilizing pie chart for oveall risk assessment.
-# Excel Dashboard
-# Power BI Dashboard
-# Tableau Dashboard
-# Insights, Recommendations and Conclusion
+## Excel Dashboard
+![Bank Loan Portfolio Analysis - Excel](https://github.com/akshaysangave/Bank-Loan-Portfolio-Analysis/assets/156088551/0dc38042-09fa-42d1-926e-4bac4ae344a1)
+## Power BI Dashboard
+![Bank Loan Portfolio Analysis - Power BI](https://github.com/akshaysangave/Bank-Loan-Portfolio-Analysis/assets/156088551/7e70ecd8-697e-4f87-bbb2-3395a955562d)
+## Tableau Dashboard
+![Bank Loan Portfolio Analysis - Tableau](https://github.com/akshaysangave/Bank-Loan-Portfolio-Analysis/assets/156088551/8a578c38-92ff-4191-bef5-5b79f746e09c)
+## Insights, Recommendations and Conclusion
 
 
 
