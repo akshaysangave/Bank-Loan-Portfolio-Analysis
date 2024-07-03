@@ -1,4 +1,7 @@
 # Bank-Loan-Portfolio-Analysis
+
+![First Image-1](https://github.com/akshaysangave/UK-Road-Accidents-Data-Analysis-Project/assets/156088551/e90a0140-187f-4847-bc72-ba1a9775655d)
+
 The Bank Loan Portfolio Analysis project analyzes loan data from a financial institution to uncover patterns in loan approval, funding, and repayment. Utilizing data analysis techniques, the project provides insights into the bank's loan portfolio, identifies key performance indicators, and offers recommendations for informed decision-making.
 ## Objective
 The primary objectives of this project are:
