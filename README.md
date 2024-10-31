@@ -1,4 +1,4 @@
-# Bank-Loan-Portfolio-Analysis
+# Bank Loan Portfolio Analysis
 
 ![First Image-1](https://github.com/akshaysangave/UK-Road-Accidents-Data-Analysis-Project/assets/156088551/e90a0140-187f-4847-bc72-ba1a9775655d)
 
